@@ -12,6 +12,7 @@ After training is complete, accuracy is printed to the standard output.
 
 After this, you can type a prefix of words, however the prefix must be composed of words that are in the vocabulary of the data, and must be at least the length of the prefix length constant (default value is 3).
 
+#Variables
 
 To change the behavior of the program, some variables will need to be changed.
 
